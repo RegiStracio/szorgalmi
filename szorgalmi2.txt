@@ -1,0 +1,56 @@
+html,body {
+	margin: 0px;
+}
+
+.div1 {
+	background-image: url("url.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	height: 1000px;
+}
+
+.div2 {
+	background-image: url("url3.png");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	height: 1000px;
+}
+
+.szöveg {
+	font-family: 'Baloo Bhaina', cursive;
+	color: limegreen;
+	font-size: 24px;
+	margin: 0px;
+}
+
+.szöveg2 {
+	font-family: 'Baloo Bhaina', cursive;
+	color: limegreen;
+	font-size: 24px;
+	margin: 0px;
+}
+
+.szöveg3 {
+	font-family: 'Lobster', cursive;
+	color: purple;
+	font-size: 57px;
+	text-align: center;
+	margin: 0px;
+}
+
+.center {
+	font-family: 'Lobster', cursive;
+	color: pink;
+	font-size: 45px;
+	text-align: center;
+	margin: 0px;
+}
+
+.kép {
+	left: 42%;
+	top: 1800px;
+	position: absolute;
+}
